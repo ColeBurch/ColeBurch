@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Cole, A software engineer passionate about learning and open-source
+### I'm Cole, An engineer passionate about learning and open-source
 Want to know more about me? [Check out my portfolio.](https://coleburch.dev/)
 
 [![Visits Badge](https://badges.pufler.dev/visits/coleburch/coleburch)](https://github.com/coleburch/coleburch)
