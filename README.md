@@ -3,9 +3,6 @@
 ### I'm Cole, An engineer passionate about learning and open-source
 Want to know more about me? [Check out my portfolio.](https://coleburch.dev/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/coleburch/coleburch)](https://github.com/coleburch/coleburch)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/coleburch/)
-
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coleburch&theme=dark&langs_count=6&layout=compact)](https://github.com/coleburch/github-readme-stats)
 
